@@ -1,0 +1,10 @@
+crewai[google-genai]>=1.15.15
+fastapi[standard]>=0.141.1
+ipykernel==7.3.0
+langchain-classic>=1.0.8
+langchain-core>=1.5.3
+langchain-groq>=1.1.3
+langgraph>=1.2.10
+pydantic
+python-dotenv>=1.2.2
+requests>=2.34.2
